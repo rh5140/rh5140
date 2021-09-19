@@ -1,4 +1,4 @@
-👋 Hi, I’m Ray Hsiao, a first-year computer science student at UCLA!
+👋 Hi, I’m Ray Hsiao, a second-year computer science student at UCLA!
 
 
 I like video games, and here are some I've worked on!
