@@ -1,7 +1,7 @@
-👋 Hi, I’m Ray Hsiao, a second-year computer science student at UCLA!
+👋 Hi, I’m Ray Hsiao, a second-year computer science student at UCLA! I'm an officer for [ACM Game Studio](https://uclaacmstudio.itch.io/) and play viola in the [Game Music Ensemble](http://gmeatucla.com/).
 
 
-I like video games (I'm an officer for [ACM Game Studio at UCLA](https://uclaacmstudio.itch.io/)), and here are some I've worked on!
+Clearly, I like video games, and here are some I've worked on!
 * Co-lead, artist, and composer for [mundaydreaming](https://aaisara12.itch.io/mundaydreaming), a side-scroller about a bored office worker who fantasizes about battling dragons developed for Ludum Dare 49
 * Programmer and writer for [Cranky](https://brandmuffin.itch.io/cranky), a walking simulator about an old man who just wants some peace in his neighborhood
 * Artist and character designer for [I Need a Hero!](https://zlc122.itch.io/i-need-a-hero-a-super-powered-dating-adventure), a superhero dating sim
