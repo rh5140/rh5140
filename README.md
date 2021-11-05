@@ -1,4 +1,4 @@
-👋 Hi, I’m Ray Hsiao, a second-year computer science student at UCLA! I'm an officer for [ACM Game Studio](https://uclaacmstudio.itch.io/) and play viola in the [Game Music Ensemble](http://gmeatucla.com/).
+Hi, I’m Ray Hsiao, a second-year computer science student at UCLA! I'm an officer for [ACM Game Studio](https://uclaacmstudio.itch.io/) and play viola in the [Game Music Ensemble](http://gmeatucla.com/).
 
 
 Clearly, I like video games, and here are some I've worked on!
