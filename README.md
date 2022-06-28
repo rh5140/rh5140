@@ -1,4 +1,4 @@
-Hi, I’m Ray Hsiao, a second-year computer science student at UCLA! I'm an officer for [ACM Game Studio](https://uclaacmstudio.itch.io/) and violist in the [Game Music Ensemble](http://gmeatucla.com/).
+Hi, I’m Ray Hsiao, a computer science major and digital humanities minor at UCLA graduating June 2024! I'm co-president for [ACM Game Studio](https://uclaacmstudio.itch.io/) and violist in the [Game Music Ensemble](http://gmeatucla.com/).
 
 All the games I've worked on can be found on [my itch profile](https://raddishradish.itch.io/).
 
