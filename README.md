@@ -1,4 +1,4 @@
-Hi, I’m Ray Hsiao, a computer science major at UCLA graduating June 2024! I'm co-president for [ACM Game Studio](https://uclaacmstudio.itch.io/) and violist in the [Game Music Ensemble](http://gmeatucla.com/). I'm particularly interested in game design, production, and programming. My work can be found in my [portfolio](https://rh5140.github.io/gamedev).
+Hi, I’m Ray Hsiao, and I graduated from UCLA with a B.S. in computer science in June 2024! I'm particularly interested in game design, production, and programming. My work can be found in my [portfolio](https://rayhsiao.dev).
 
 
 <!---
