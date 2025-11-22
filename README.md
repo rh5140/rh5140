@@ -1,4 +1,4 @@
-Hi, I’m Ray Hsiao, and I graduated from UCLA with a B.S. in computer science in June 2024! I'm particularly interested in game design, production, and programming. My work can be found in my [portfolio](https://rayhsiao.dev).
+Hi, I’m Ray Hsiao, Northeastern University Game Science and Design MS '27 and UCLA Computer Science BS '24! I'm particularly interested in game design, production, and programming. My work can be found in my [portfolio](https://rayhsiao.dev).
 
 
 <!---
